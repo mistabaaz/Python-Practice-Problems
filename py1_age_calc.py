@@ -2,7 +2,7 @@
 
 # Taking age or year of birth as input from user
 a = int(input("enter age or year of birth : "))
-curr_yr = 2022
+curr_yr = 2023
 choc = input("enter year for calculating age on that year (optional) : ")
 if (a < 100 and a > 0):
     curr_age = a
