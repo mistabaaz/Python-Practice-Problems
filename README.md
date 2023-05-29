@@ -12,9 +12,9 @@ For example:
 
 ```
 Enter age or year of birth: 17
-Enter a year for calculating age on that year(Optional): 2004
+enter year on which you want to know your age(Optional): 2004
 You will be 100 years old in 2106
-You are not born on that year :)
+You are not born in the year 2004 :)
 ```
   <br>
     
