@@ -61,3 +61,20 @@ Solution : [Click here](https://github.com/mistabaaz/Python-Practice-Problems/bl
   
   ---
 </details>
+
+
+<details>
+    <summary>Python Problem 3</summary>
+  <br>  
+    
+  Problem : Take a list of diffrent food from the user and reverse the list using three methods.
+  - using slicing method
+  - using a built-in function
+  - using for loop
+    
+Note : reverse list have to be same for all the three mehods
+
+Solution : [Click here](https://github.com/mistabaaz/Python-Practice-Problems/blob/main/py3_reverse_food_items.py)
+  
+  ---
+</details>
