@@ -78,3 +78,36 @@ Solution : [Click here](https://github.com/mistabaaz/Python-Practice-Problems/bl
   
   ---
 </details>
+
+<details>
+    <summary>Python Problem 4</summary>
+  <br>  
+    
+  Problem : Take input from user (as many as user wants) and print next palindrome numbers.
+<br><br>
+    
+For example:
+
+```
+enter how many numbers you want to input : 4
+enter number for 1 test case :8
+enter number for 2 test case :99
+enter number for 3 test case :43
+enter number for 4 test case :67
+
+after 8 next pallindrome number is 9
+after 99 next pallindrome number is 101
+after 43 next pallindrome number is 44
+after 67 next pallindrome number is 77
+```    
+  <br>
+    
+Notes : 
+- User can provide numbers as much as they want to be.
+- Pallindrome number is a number which looks same from reading both the sides.
+- for example : 111,44,77,121 etc they readed same from both sides
+
+Solution : [Click here](https://github.com/mistabaaz/Python-Practice-Problems/blob/main/py4_next_pallindrome.py)
+  
+  ---
+</details>
