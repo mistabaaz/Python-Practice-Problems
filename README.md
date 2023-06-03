@@ -111,3 +111,40 @@ Solution : [Click here](https://github.com/mistabaaz/Python-Practice-Problems/bl
   
   ---
 </details>
+
+<details>
+    <summary>Python Problem 5</summary>
+  <br>  
+    
+  Problem : Take a list from user and pallindromify the list.
+<br><br>
+    
+For example:
+
+```
+enter no of elements in list :4
+enter element number 1:54
+enter element number 2:7
+enter element number 3:96
+enter element number 4:4
+pallindromified list is :
+[55, 7, 99, 4]
+```    
+  <br>
+    
+Notes : 
+- palindromify the numbers of the list only if the number is greater than 10.
+- palindromify means next pallindrome of the given number.
+
+Solution : [Click here](https://github.com/mistabaaz/Python-Practice-Problems/blob/main/py5_pallindrome_list.py)
+  
+  ---
+</details>
+
+<details>
+    <summary>Python Problem 6</summary>
+  <br>  
+    Something Special (•‿•)
+    
+  ---
+</details>
