@@ -27,5 +27,6 @@ for j in list :
         newList.append(j)
 
 print(f"pallindromified list is : \n {newList}")
+
 input()
 #finished
