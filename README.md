@@ -136,7 +136,7 @@ Notes :
 - palindromify the numbers of the list only if the number is greater than 10.
 - palindromify means next pallindrome of the given number.
 
-Solution : [Click here](https://github.com/mistabaaz/Python-Practice-Problems/blob/main/py5_pallindrome_list.py)
+Solution : [Click here](https://github.com/mistabaaz/Python-Practice-Problems/blob/main/py5_palindrome_list.py)
   
   ---
 </details>
