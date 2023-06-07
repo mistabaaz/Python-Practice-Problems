@@ -144,7 +144,38 @@ Solution : [Click here](https://github.com/mistabaaz/Python-Practice-Problems/bl
 <details>
     <summary>Python Problem 6</summary>
   <br>  
-    Something Special (•‿•)
+    Problem : Make a game like guessing the number.let me explain you have to make a multiplayer game.First take range from the user that in what range he will guess the number for example he choose 9 to 12 so your program have to generate a random number between this range and both two players try to guess that random number who guess the number in less trials that is the winner.
+    <br><br>
+    
+For example:
+```
+enter range in which you want to guess the number : 
+enter starting range : 7
+enter last range : 14
+starting with Player1 : 
+guess the number : 8
+Wrong , please try again with greater number.
+guess the number : 12
+Correct , you guessed the right number in 2 trials.
+now is the turn of Player2 : 
+guess the number : 12
+Wrong , please try again with smaller number.
+guess the number : 9
+Wrong , please try again with smaller number.
+guess the number : 8
+Correct , you guessed the right number in 3 trials.
+and the winner is .....
+Player1
+```
+<br>
+    
+Notes : 
+- you can ask user his name optionally
+- your program must provide guidance to player like
+- try to guess greater number or smaller number
+
+Solution : [Click here](https://github.com/mistabaaz/Python-Practice-Problems/blob/main/py6_guess_the_number.py)
+    
     
   ---
 </details>
