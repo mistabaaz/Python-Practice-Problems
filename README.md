@@ -179,3 +179,83 @@ Solution : [Click here](https://github.com/mistabaaz/Python-Practice-Problems/bl
     
   ---
 </details>
+
+
+<details>
+    <summary>Python Problem 7</summary>
+  <br>  
+    Problem : Let's make a search Engine! . First you have to make own list of sentences. After that make program to take words from user to search them within your list .And show appropiate results.
+    <br><br>
+    
+For example:
+```
+Enter query to be searched : python
+
+Total 2 results found :
+
+python is python not snake
+python is good
+```
+<br>
+    
+Notes : 
+- If a word comes two or more times in a sentence then it have to be appear on top
+- and then next sentence and so on...
+
+Solution : [Click here](https://github.com/mistabaaz/Python-Practice-Problems/blob/main/py7_search_engine.py)
+    
+    
+  ---
+</details>
+
+<details>
+    <summary>Python Problem 8</summary>
+  <br>  
+    Problem : Your friend makes a function to print multiplication table of any number.But he/she used a random module to make a mistake in table to challenge your knowledge.So you have to make a pyhton program which have two functions (i) false_table() (ii) mistake_finder(). So your program have to find the mistake in table and print where this mistake occur.
+    <br><br>
+    
+For example:
+```
+enter a number for multiplication table: 7
+Ram Prsad's list of multiplication table of 7 is :
+ [7, 14, 21, 28, 35, 42, 51, 56, 63, 70]
+There is a mistake in Ram Prsad function at 7x7
+accurate value is 49
+```
+<br>
+    
+Notes : 
+- Make the mistake very hard to find by user i.e 9x9 = 81 made it 83 or 76 like that .
+- Don't make big difference it can be caught easily.
+  
+Solution : [Click here](https://github.com/mistabaaz/Python-Practice-Problems/blob/main/py8_fake_multiplication.py)
+    
+    
+  ---
+</details>
+
+<details>
+    <summary>Python Problem 9</summary>
+  <br>  
+    Problem : You have to make a program to rearrange the surnames of person names.First take input from the user that how many person are there. And then jumble the last name of every person with each other.
+    <br><br>
+    
+For example:
+```
+enter how many people: 3
+enter full name of person 1: Alex Walter
+enter full name of person 2: Suraj Pathak
+enter full name of person 3: Rohan Delhi
+Printing jumbled names :
+Alex Pathak
+Suraj Walter
+Rohan Delhi
+```
+<br>
+    
+  
+Solution : [Click here](https://github.com/mistabaaz/Python-Practice-Problems/blob/main/py9_jumbled_funny_names.py)
+    
+    
+  ---
+</details>
